@@ -16,7 +16,7 @@ The Tic Tac Toe Game is a 2D game developed in Android Studio using Java and XML
 
 To set up the Tic Tac Toe Game on your local machine, follow these steps:
 
-1. **Clone the repository**: Clone the repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Clone the repository to your local machine using the command `git clone https://github.com/muhammadajlal/Tic-tac-toe-Android-Game.git`.
 
 2. **Open the project in Android Studio**: Navigate to the directory where you cloned the repository and open the project in Android Studio.
 
